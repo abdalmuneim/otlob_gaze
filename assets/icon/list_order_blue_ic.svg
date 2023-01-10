@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="29" height="27" viewBox="0 0 29 27">
+  <defs>
+    <clipPath id="clip-path">
+      <rect id="icon" width="29" height="27" transform="translate(126 5)" fill="#0004bd"/>
+    </clipPath>
+  </defs>
+  <g id="Mask_Group_131" data-name="Mask Group 131" transform="translate(-126 -5)" clip-path="url(#clip-path)">
+    <path id="boxes" d="M26.825,10.15H21.75V2.175A2.176,2.176,0,0,0,19.575,0H9.425A2.176,2.176,0,0,0,7.25,2.175V10.15H2.175A2.176,2.176,0,0,0,0,12.325v8.7A2.176,2.176,0,0,0,2.175,23.2h24.65A2.176,2.176,0,0,0,29,21.025v-8.7A2.176,2.176,0,0,0,26.825,10.15ZM9.425,2.175h2.9v4.11L14.5,5.32l2.175.965V2.175h2.9V10.15H9.425Zm3.988,18.85H2.175v-8.7H5.8v4.11l2.175-.965,2.175.965v-4.11h3.262Zm13.413,0H15.588v-8.7H18.85v4.11l2.175-.965,2.175.965v-4.11h3.625Z" transform="translate(126 6.9)" fill="#0004bd"/>
+  </g>
+</svg>

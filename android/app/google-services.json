@@ -1,0 +1,82 @@
+{
+  "project_info": {
+    "project_number": "55510306996",
+    "project_id": "otlob-gas",
+    "storage_bucket": "otlob-gas.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:55510306996:android:e838f9c3322f0f9cde87e1",
+        "android_client_info": {
+          "package_name": "com.otlobgas.customer"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "55510306996-jltmbjsdts3q13hq3reesrakv15sq2gm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAeQs5uLGoHlA2bu0VpVRm8b1LCuxU4L3w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "55510306996-jltmbjsdts3q13hq3reesrakv15sq2gm.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "55510306996-eq19l8siplaedho9mffgsgh6vss4k0tv.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.otlobGas"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:55510306996:android:1dd48b818d7e62a9de87e1",
+        "android_client_info": {
+          "package_name": "com.otlobgas.driver"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "55510306996-jltmbjsdts3q13hq3reesrakv15sq2gm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAeQs5uLGoHlA2bu0VpVRm8b1LCuxU4L3w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "55510306996-jltmbjsdts3q13hq3reesrakv15sq2gm.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "55510306996-eq19l8siplaedho9mffgsgh6vss4k0tv.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.otlobGas"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

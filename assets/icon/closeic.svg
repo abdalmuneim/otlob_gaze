@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="16" height="16" viewBox="0 0 16 16">
+  <defs>
+    <clipPath id="clip-path">
+      <rect id="Rectangle_3082" data-name="Rectangle 3082" width="16" height="16" transform="translate(13 132)" fill="#cacaca"/>
+    </clipPath>
+  </defs>
+  <g id="close" transform="translate(-13 -132)" clip-path="url(#clip-path)">
+    <path id="times-circle" d="M8.355.355a8,8,0,1,0,8,8A8,8,0,0,0,8.355.355Zm0,14.452a6.452,6.452,0,1,1,6.452-6.452A6.45,6.45,0,0,1,8.355,14.806Zm3.284-8.458L9.632,8.355l2.006,2.006a.387.387,0,0,1,0,.548l-.729.729a.387.387,0,0,1-.548,0L8.355,9.632,6.348,11.639a.387.387,0,0,1-.548,0l-.729-.729a.387.387,0,0,1,0-.548L7.077,8.355,5.071,6.348a.387.387,0,0,1,0-.548L5.8,5.071a.387.387,0,0,1,.548,0L8.355,7.077l2.006-2.006a.387.387,0,0,1,.548,0l.729.729a.387.387,0,0,1,0,.548Z" transform="translate(12.645 131.645)" fill="#cacaca"/>
+  </g>
+</svg>

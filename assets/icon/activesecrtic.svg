@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="16" height="16" viewBox="0 0 16 16">
+  <defs>
+    <clipPath id="clip-path">
+      <rect id="icon" width="16" height="16" transform="translate(13 13)" fill="#0004bd"/>
+    </clipPath>
+  </defs>
+  <g id="Mask_Group_59" data-name="Mask Group 59" transform="translate(-13 -13)" clip-path="url(#clip-path)">
+    <path id="lock-keyhole" d="M7.75,12a.75.75,0,0,1-1.5,0V10a.75.75,0,0,1,1.5,0ZM7,0a4,4,0,0,1,4,4V6h1a2,2,0,0,1,2,2v6a2,2,0,0,1-2,2H2a2,2,0,0,1-2-2V8A2,2,0,0,1,2,6H3V4A4,4,0,0,1,7,0ZM7,1.5A2.5,2.5,0,0,0,4.5,4V6h5V4A2.5,2.5,0,0,0,7,1.5Zm-5,6a.5.5,0,0,0-.5.5v6a.5.5,0,0,0,.5.5H12a.5.5,0,0,0,.5-.5V8a.5.5,0,0,0-.5-.5Z" transform="translate(14 13)" fill="#0004bd"/>
+  </g>
+</svg>

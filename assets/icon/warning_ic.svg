@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="19" height="18" viewBox="0 0 19 18">
+  <defs>
+    <clipPath id="clip-path">
+      <rect id="icon" width="19" height="18" transform="translate(105.177 1.674)" fill="#de3131"/>
+    </clipPath>
+  </defs>
+  <g id="Mask_Group_138" data-name="Mask Group 138" transform="translate(-105.177 -1.674)" clip-path="url(#clip-path)">
+    <path id="exclamation-triangle" d="M8.205,6.752l.217,3.694a.4.4,0,0,0,.4.373h1.365a.4.4,0,0,0,.4-.373l.217-3.694a.4.4,0,0,0-.4-.419H8.6a.4.4,0,0,0-.4.419Zm2.68,5.914A1.385,1.385,0,1,1,9.5,11.281,1.385,1.385,0,0,1,10.885,12.667ZM10.871.791a1.584,1.584,0,0,0-2.743,0L.214,14.514a1.584,1.584,0,0,0,1.371,2.375h15.83a1.584,1.584,0,0,0,1.371-2.375L10.871.791ZM1.755,15.009,9.329,1.88a.2.2,0,0,1,.343,0l7.574,13.128a.2.2,0,0,1-.171.3H1.926a.2.2,0,0,1-.171-.3Z" transform="translate(105.177 2.229)" fill="#de3131"/>
+  </g>
+</svg>

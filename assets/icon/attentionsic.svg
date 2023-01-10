@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="22" height="22" viewBox="0 0 22 22">
+  <defs>
+    <clipPath id="clip-path">
+      <rect id="icon" width="22" height="22" transform="translate(315 15)" fill="#fad934"/>
+    </clipPath>
+  </defs>
+  <g id="Mask_Group_112" data-name="Mask Group 112" transform="translate(-315 -15)" clip-path="url(#clip-path)">
+    <path id="exclamation-circle" d="M11.355.355a11,11,0,1,0,11,11A11,11,0,0,0,11.355.355Zm0,19.871a8.871,8.871,0,1,1,8.871-8.871A8.866,8.866,0,0,1,11.355,20.226Zm1.863-4.613a1.863,1.863,0,1,1-1.863-1.863A1.865,1.865,0,0,1,13.218,15.613ZM9.609,6.236l.3,6.032a.532.532,0,0,0,.532.506h1.826a.532.532,0,0,0,.532-.506l.3-6.032a.532.532,0,0,0-.532-.559H10.14A.532.532,0,0,0,9.609,6.236Z" transform="translate(314.645 14.645)" fill="#fad934"/>
+  </g>
+</svg>

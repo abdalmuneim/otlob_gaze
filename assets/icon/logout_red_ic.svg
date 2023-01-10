@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="27" height="27" viewBox="0 0 27 27">
+  <defs>
+    <clipPath id="clip-path">
+      <rect id="icon" width="27" height="27" transform="translate(135 5)" fill="#de3131"/>
+    </clipPath>
+  </defs>
+  <g id="Mask_Group_135" data-name="Mask Group 135" transform="translate(-135 -5)" clip-path="url(#clip-path)">
+    <path id="power-off" d="M20.812,2.48a13.286,13.286,0,1,1-14.2,0,.642.642,0,0,1,.905.225l.632,1.12a.64.64,0,0,1-.209.852,10.718,10.718,0,1,0,11.539.005.64.64,0,0,1-.209-.852l.632-1.12a.643.643,0,0,1,.905-.23ZM15,14.786V.643A.645.645,0,0,0,14.357,0H13.071a.645.645,0,0,0-.643.643V14.786a.645.645,0,0,0,.643.643h1.286A.645.645,0,0,0,15,14.786Z" transform="translate(134.786 5)" fill="#de3131"/>
+  </g>
+</svg>

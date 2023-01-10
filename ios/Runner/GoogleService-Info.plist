@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>55510306996-eq19l8siplaedho9mffgsgh6vss4k0tv.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.55510306996-eq19l8siplaedho9mffgsgh6vss4k0tv</string>
+	<key>API_KEY</key>
+	<string>AIzaSyAq-Q7V-I50wGNVvp1imh7eUgPs8ca6St8</string>
+	<key>GCM_SENDER_ID</key>
+	<string>55510306996</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.example.otlobGas</string>
+	<key>PROJECT_ID</key>
+	<string>otlob-gas</string>
+	<key>STORAGE_BUCKET</key>
+	<string>otlob-gas.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:55510306996:ios:cd48743038dcc7f2de87e1</string>
+</dict>
+</plist>
