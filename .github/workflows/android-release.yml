@@ -90,8 +90,8 @@ jobs:
       # - name: Start release build aab
       #   run: flutter build appbundle --release
 
-      - name: Start release build APK
-        run: flutter build apk --release
+      # - name: Start release build APK
+      #   run: flutter build apk --release
 
       # Uploaded the APK release as an artifact to be used in the next job
       - name: Upload APK Release
