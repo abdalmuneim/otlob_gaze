@@ -128,9 +128,9 @@ class _OTPPageState extends State<OTPPage> {
 
           const SizedBox(height: 40.0),
           Selector<OTPProvider, Duration>(
-              selector: (_, provider) => provider.timerDuration,
-              builder: (_, duration, __) {
-                final seconds = duration.inSeconds;
+              selector: (_, OTPProvider provider) => provider.timerDuration,
+              builder: (_, Duration duration, __) {
+                final int seconds = duration.inSeconds;
                 return TextButton(
                     onPressed:
                         seconds != 0 ? null : otpProvider.verifyPhoneNumber,
