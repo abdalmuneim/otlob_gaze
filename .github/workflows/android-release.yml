@@ -90,8 +90,15 @@ jobs:
       # - name: Start release build aab
       #   run: flutter build appbundle --release
 
-      # - name: Start release build APK
-      #   run: flutter build apk --release
+      # Uploaded the AAP release as an artifact to be used in the next job
+      # - name: Upload AAP Release
+      #   uses: actions/upload-artifact@v2
+      #   with:
+      #     name: aap-release
+      #     path: build/app/outputs/bundle/release/app-release.aab
+
+      - name: Start release build APK
+        run: flutter build apk --release
 
       # Uploaded the APK release as an artifact to be used in the next job
       - name: Upload APK Release
@@ -99,13 +106,6 @@ jobs:
         with:
           name: apk-release
           path: build/app/outputs/flutter-apk/app-release.apk
-
-      # Uploaded the AAP release as an artifact to be used in the next job
-      - name: Upload AAP Release
-        uses: actions/upload-artifact@v2
-        with:
-          name: aap-release
-          path: build/app/outputs/bundle/release/app-release.aab
 
       # --- creating github apk-release ---
       - name: Create apk-release in GitHub
