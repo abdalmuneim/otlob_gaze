@@ -88,7 +88,7 @@ jobs:
 
       # Runs a set of commands using the runners shell
       # - name: Start release build aab
-      # run: flutter build appbundle --release
+      #   run: flutter build appbundle --release
 
       - name: Start release build APK
         run: flutter build apk --release
